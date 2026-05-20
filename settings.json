@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mixedberrysmp.aternos.me
-",
+    "ip": "mixedberrysmp.aternos.me",
+
     "port": 28393,
     "version": "",
     "try-creative": false
