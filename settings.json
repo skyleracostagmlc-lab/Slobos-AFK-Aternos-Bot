@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hilsha.aternos.host:33209",
+    "ip": "mixeberrysmp.aternos.me",
 
-    "port": 33209,
+    "port": 26591,
     "version": "",
     "try-creative": false
   },
