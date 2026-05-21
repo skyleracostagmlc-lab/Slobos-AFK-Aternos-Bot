@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mixeberrysmp.aternos.me",
+    "ip": "mixeberrysmp.aternos.me:26591",
 
     "port": 26591,
     "version": "",
