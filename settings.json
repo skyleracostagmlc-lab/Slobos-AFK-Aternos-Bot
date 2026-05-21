@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mixedberrysmp.aternos.me",
+    "ip": "hilsha.aternos.host:33209",
 
     "port": 33209,
     "version": "",
